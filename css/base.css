@@ -278,6 +278,8 @@ a{text-decoration: none;color:#333;}
 	left: 0;
 	padding: 0.4rem 0.8rem;
 	box-sizing: border-box;
+	text-align: center;
+	color:#999;
 }
 .ms_send_content{
 	border:1px solid #ddd;

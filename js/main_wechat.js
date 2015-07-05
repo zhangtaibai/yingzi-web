@@ -13,4 +13,8 @@
 		$("#choose_layer").hide();
 		$("#choose_dialog").hide();
 	});
+
+	$(".header i").on("tap",function(){
+		window.history.go(-1);
+	});
 })();
